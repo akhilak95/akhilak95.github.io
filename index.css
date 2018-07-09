@@ -3,6 +3,7 @@
   height: 2px;
     }
 .parent{
+   
   display: flex;
   justify-content: flex-end;
   flex-direction: row;
